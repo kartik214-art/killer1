@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>
+"hello"
+</title>
+<body bgcolor="ACD908">
+<div style="color:megenta; color:white;width:50px >
+<p align="center">
+"MY NAME IS 
+<span style="color:red"><strong> KARTIK </strong> </span></p>
+<p align="center">
+<i> HELLO ! </i></p>
+<p align="center">
+<img src="https://m.media-amazon.com/images/M/MV5BMjY5MDE4MTM2NV5BMl5BanBnXkFtZTgwMzkzMTM1ODE@._V1_UY317_CR3,0,214,317_AL_.jpg"
+height="150px" width="110px" border="3px" alt=""/>
+<br />
+To check yours <span style="color:red"><strong> ATTENDANCE </strong> </span>
+<a href="http://117.205.10.34/">
+Click here </a>
+</p>
+</div>
+
+<form method="get" target="_blank" align="center">
+<div style="background-color:orange; color:white; ">
+<span style="color:black">
+<p align="center">
+<i><b> LOGIN <br /><i><font color="#000099">(login here first)</i></p></i></b></font>
+<form align="center" >
+username<br />
+<input type="text" name="username" placeholder="username"/><br />
+password
+<br />
+<input type="password" name="password" placeholder="password"/>
+<br />
+
+
+
+<button type="submit" onclick="window.location.href='file:///C:/Users/Shubham%20K/Desktop/ll.html';">Submit</button>
+
+</div>
+
+</body>
+</head>
+</html>
+
+
+
